@@ -1,0 +1,4 @@
+You still have the direct admin permissions on the project please remove yourself from the project, else you may the similar email.
+Please see Microsoft policy for the same https://liquid.microsoft.com/Web/Object/Read/ms.security/Requirements/Microsoft.Security.AccessControl.20000
+
+We will assign this to next best resource owner.
